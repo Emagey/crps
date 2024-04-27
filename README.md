@@ -1,5 +1,5 @@
 # Using
-Download the latest compiled file by clicking here or compile it yourself
+Download the latest compiled file by clicking [here](https://github.com/aesyncio/crps/raw/main/compiled) or compile it yourself
 
 # Compiling
 Install GCC<br>
